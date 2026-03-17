@@ -4,7 +4,7 @@ __pycache__/
 db.sqlite3
 media/
 .env
-*.env
+!.env.example
 *.log
 staticfiles/
 .DS_Store
@@ -12,6 +12,6 @@ staticfiles/
 .idea/
 *.sqlite3
 node_modules/
-.env.*
 .venv39/
+venv/
 
