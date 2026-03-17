@@ -1,0 +1,5 @@
+Django>=3.2,<4.0
+dj-database-url>=2.0.0
+whitenoise>=6.0.0
+requests>=2.31.0
+Pillow>=10.0.0
